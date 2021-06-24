@@ -1,5 +1,5 @@
 # jobmalai-front-end
-<p>Demo video : https://www.youtube.com/watch?v=s6VOOyUqNPk&t=10s </p>
+<p>Demo video : https://www.youtube.com/watch?v=s6VOOyUqNPk </p>
 <p>Live Url : https://jobmalai.com </p>
 
 ## Project setup
